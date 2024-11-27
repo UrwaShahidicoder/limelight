@@ -1,0 +1,408 @@
+* {
+}
+.promo {
+  color: rgb(173, 21, 21);
+  text-align: center;
+  font-size: 12px;
+  margin-top: 6px;
+  height: 20px;
+}
+.header {
+  background-color: black;
+  height: 8vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo{
+    display: flex;
+}
+.logo i {
+  color: white;
+  font-size: 2em;
+}
+.logo input {
+  width: 17vw;
+  height: 4vh;
+  border-radius: 6px;
+}
+.svg{
+    display: flex;
+    justify-content: center;
+    margin-right: 250px;
+}
+.truck i {
+  color: white;
+  font-size: 2em;
+  /* margin-left: 20vw; */
+}
+.navbar {
+  background-color: white;
+}
+.navbar-nav .nav-link {
+  display: flex;
+  flex-wrap: wrap;
+  color: rgb(17, 2, 2);
+  font-weight: bold;
+  margin-right: 15px;
+}
+.container a {
+  text-decoration: none;
+}
+.container li {
+  list-style: none;
+  background-color: rgba(208, 212, 216, 0.897);
+}
+.container {
+  background-color: rgba(208, 212, 216, 0.897);
+  text-align: center;
+}
+.navbar {
+  background-color: rgba(128, 120, 120, 0.322);
+  /* overflow: auto; */
+  height: 35px;
+  margin-bottom: 15px;  
+}
+.navbar a {
+  color: black;
+  text-decoration: none;
+  padding-bottom: 50px;
+  align-items: center;
+  font-size: 15px;
+}
+.navbar .icon {
+  font-size: 25px;
+  color: black;
+  padding-bottom: 40px;
+}
+
+.carousel img {
+  width: 100%;
+  height: auto;
+}
+.new4 {
+  border: 2px solid rgb(252, 150, 167);
+}
+.new5 {
+  border: 2px solid rgb(252, 150, 167);
+  margin-bottom: 0%;
+}
+.unstitched {
+  text-align: center;
+  margin-bottom: 10vh;
+}
+.image1 {
+  display: flex;
+  justify-content: center;
+}
+.image1 img {
+  border-radius: 200px;
+  height: 130px;
+  width: 130px;
+  margin-left: 30px;
+}
+.image1 h5 {
+  margin: 40px;
+  margin-top: 1%;
+}
+.women h3 {
+  text-align: center;
+}
+.image2 {
+  display: flex;
+  justify-content: center;
+}
+.image2 img {
+  border-radius: 200px;
+  height: 130px;
+  width: 130px;
+  margin-left: 30px;
+}
+.image2 h5 {
+  margin: 40px;
+  margin-top: 1%;
+}
+.image3 {
+  display: flex;
+  justify-content: center;
+}
+.image4 {
+  display: flex;
+  justify-content: center;
+}
+.image3 img {
+  border-radius: 18px;
+  height: 180px;
+  width: 260px;
+}
+.image4 img {
+  border-radius: 18px;
+  height: 180px;
+  width: 260px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 6vh;
+  background-color: white;
+}
+.container h3 {
+  font-size: 15px;
+}
+.new6 {
+  border: 2px solid rgb(252, 150, 167);
+  margin-top: 0%;
+}
+.new7 {
+  border: 2px solid rgb(252, 150, 167);
+  margin-top: 3%;
+}
+.image5 img {
+  border-radius: 200px;
+  height: 130px;
+  width: 130px;
+  margin-left: 30px;
+}
+.image5 h5 {
+  margin-left: 60px;
+}
+.access h3 {
+  margin-left: 10px;
+}
+.new8 {
+  border: 2px solid rgb(252, 150, 167);
+  margin-top: 3%;
+}
+.carousel-item img {
+  border-radius: 20px;
+  width: 1300px;
+  margin-left: 20px;
+}
+.new9 {
+  border: 2px solid rgb(252, 150, 167);
+  margin-top: 1%;
+}
+.new h2 {
+  text-align: center;
+  font-weight: 400;
+}
+.image6 img {
+  width: 310px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image6 img:hover {
+  transform: scale(0.9);
+}
+.image7 img {
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image7 img:hover {
+  transform: scale(0.9);
+}
+.image8 img {
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image8 img:hover {
+  transform: scale(0.9);
+}
+.image9 img {
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image9 img:hover {
+  transform: scale(0.9);
+}
+.image10 img {
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image10 img:hover {
+  transform: scale(0.9);
+}
+.image11 img {
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image11 img:hover {
+  transform: scale(0.9);
+}
+.image12 img {
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image12 img:hover {
+  transform: scale(0.9);
+}
+.image13 img {
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image13 img:hover {
+  transform: scale(0.9);
+}
+.image14 img {
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image14 img:hover {
+  transform: scale(0.9);
+}
+.image15 img {
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image15 img:hover {
+  transform: scale(0.9);
+}
+.image16 img {
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image16 img:hover {
+  transform: scale(0.9);
+}
+.image17 img {
+  width: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: 0.9s;
+}
+.image17 img:hover {
+  transform: scale(0.9);
+}
+.image7 img {
+  width: 300px;
+  border-radius: 5px;
+}
+.image8 img {
+  width: 300px;
+  border-radius: 5px;
+}
+.image9 img {
+  width: 300px;
+  border-radius: 5px;
+}
+.image10 img {
+  width: 300px;
+  border-radius: 5px;
+}
+.image11 img {
+  width: 300px;
+  border-radius: 5px;
+}
+.image12 img {
+  width: 300px;
+  border-radius: 5px;
+}
+.image13 img {
+  width: 300px;
+  border-radius: 5px;
+}
+.image14 img {
+  width: 300px;
+  border-radius: 5px;
+}
+.image15 img {
+  width: 300px;
+  border-radius: 5px;
+}
+.im
+.image16 img {
+  width: 300px;
+  border-radius: 5px;
+}
+.image17 img {
+  width: 300px;
+  border-radius: 5px;
+}
+.btn button {
+  background-color: black;
+  color: white;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 13px;
+  height: 30px;
+}
+.btn {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.icons {
+  justify-content: center;
+  gap: 4vh;
+  margin-right: 290px;
+  margin-top: -1em;
+}
+.icons img {
+  height: 35px;
+  width: 35px;
+}
+.footer li {
+  list-style: none;
+}
+.footer h5 {
+  margin-top: 30px;
+}
+.footer a {
+  text-decoration: none;
+  color: black;
+  margin-left: -2em;
+}
+.footer {
+  margin-top: 30px;
+  border: 2px solid rgba(128, 128, 128, 0.103);
+  background-color: #fafafa;
+}
+.we {
+  text-align: center;
+  margin-top: 1.25em;
+  color: rgb(94, 92, 92);
+}
+.icons {
+  display: flex;
+  justify-content: center;
+  margin-right: 0;
+}
+.icons i {
+  font-size: 3vw;
+}
+.icon2 {
+  display: flex;
+  justify-content: center;
+}
+.icon2 img {
+  height: 30px;
+  width: 30px;
+  margin-left: 2em;
+}
+.powered{
+    text-align: center;
+    color: rgb(95, 93, 93);
+}
